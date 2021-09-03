@@ -1,0 +1,73 @@
+.booking-table {
+	width: 100%;
+	height: calc(100vh + 250px);
+	background-image: url("./pattern_svg2.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: #6E9262;
+	background-blend-mode: soft-light;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 50px;
+	font-family: Nunito, sans-serif;
+
+	z-index: 1;
+}
+
+.form-wrapper {
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	gap: 50px;
+}
+
+@media screen and (max-width: 700px) {
+	.form-wrapper {
+		flex-direction: column;
+		flex-wrap: wrap;
+	
+	}
+}
+
+.booking-inform {
+	height: 250px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.inform {
+	font-size: 1.2em;
+	padding: 10px;
+	border: none;
+	border-bottom: 3px solid #AF4C4C;
+	background-color: rgba(255, 255, 255, 0.863);
+	outline: none;
+	text-indent: 10px;
+	font-family: Nunito, sans-serif;
+	box-shadow: 0 0 10px rgb(71, 71, 71);
+}
+
+#book {
+	font-size: 1.5em;
+	font-family: Nunito, sans-serif;
+	padding: 15px 30px;
+	border: none;
+	border-bottom: 3px solid white;
+	box-shadow: 0 0 15px rgb(71, 71, 71);
+
+	background-color: #AF4C4C;
+	color: white;
+	cursor: pointer;
+
+	transition: background-color 0.3s;
+}
+
+#book:hover {
+	background-color: #d16464;
+}

@@ -1,0 +1,131 @@
+#welcome-wrapper {
+	position: relative;
+	width: 100%;
+	height: calc(200vh + 100px);
+	background-image: url("./cover9.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+
+.welcome {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	text-align: center;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	/* background-color: #af4c4c; */
+}
+
+#logo {
+	width: 80%;
+
+
+	padding: 50px;
+}
+
+.introduction {
+	position: absolute;
+	top: 135vh;
+	width: 100%;
+	height: 50vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+
+	font-size: 1.2em;
+	font-family: Nunito, sans-serif;
+	
+}
+
+.intro {
+	font-family: Nunito, sans-serif;
+	color: white;
+	margin-left: 10%;
+}
+
+.intro.what {
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.intro.by {
+	margin-left: 13%;
+	font-size: 1.5em;
+	/* text-decoration: underline;
+	text-underline-offset: 2px; */
+	padding: 0% 4%;
+	border-bottom: 3px solid white;
+	text-shadow: 0 0 5px rgb(0, 0, 0);
+}
+
+.intro.from {
+	position: absolute;
+	top: 45vh;
+	right: 80vh;
+	font-size: 1.1em;
+	font-family: "Playfair Display", serif;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	text-shadow: 0 0 10px rgb(0, 0, 0);
+
+}
+
+.intro.napoli {
+	position: absolute;
+	top: 42vh;
+	right: 52vh;
+	font-size: 3em;
+	
+}
+
+.intro.italy {
+	position: absolute;
+	top: 50vh;
+	right: 42vh;
+	font-size: 2.7em;
+	font-family: "Playfair Display", serif;
+
+
+}
+
+
+.show-menu {
+	position: absolute;
+	width: 100%;
+	bottom: -40px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+	font-size: 1.2em;
+	color: white;
+
+	
+}
+
+.show-menu #menu {
+	font-family: Nunito, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-weight: bold;
+	text-shadow: 0 0 5px rgb(0, 0, 0);
+
+
+}
+
+.show-menu #arrow {
+	width: 10%;
+}

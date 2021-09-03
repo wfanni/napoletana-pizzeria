@@ -1,0 +1,94 @@
+{
+    "pastaTypes": [
+        
+        {
+            "name": "Ravioli di Zucca con Burro & Salvia",
+            "description": "Squash Ravioli with Brown Butter & Sage Sauce",
+            "price": "12.90"
+        },
+        {
+            "name": "Paccheri al Forno con Pomodoro & Mozzarella",
+            "description": "Baked Paccheri with Tomato & Mozzarella",
+            "price": "11.90"
+        },
+        {
+            "name": "Pasta alla Carbonara",
+            "description": "Pasta with Egg, Guanciale, and Cheese",
+            "price": "12.90"
+        },
+        {
+            "name": "Bucatini all’Amatriciana",
+            "description": "Bucatini with Spicy Tomato Sauce, Pecorino Romano, and Guanciale",
+            "price": "13.90"
+        },
+        {
+            "name": "Spaghettoni al Tonno",
+            "description": "Pasta with Tuna",
+            "price": "12.90"
+        },
+        {
+            "name": "Spaghetti Cacio e Pepe",
+            "description": "Pasta with Cheese and Black Pepper",
+            "price": "10.90"
+        },
+        {
+            "name": "Tagliatelle al Tartufo",
+            "description": "Pasta with Black Truffle",
+            "price": "14.90"
+        },
+        {
+            "name": "Spaghetti alle Vongole",
+            "description": "Spaghetti with Clams",
+            "price": "13.90"
+        },        
+        {
+            "name": "Lasagne alla Bolognese",
+            "description": "Traditional Lasagna with Bolognese Sauce",
+            "price": "10.90"
+        },
+        {
+            "name": "Pasta all’Arrabbiata Recipe",
+            "description": "Pasta with Spicy Tomato Sauce",
+            "price": "11.90"
+        },
+        {
+            "name": "Pappardelle ai Funghi",
+            "description": "Pappardelle with Wild Mushroom Ragù",
+            "price": "11.90"
+        },
+        {
+            "name": "Orecchiette con Cime di Rapa",
+            "description": "Orecchiette with Broccoli Rabe",
+            "price": "12.90"
+        },
+        {
+            "name": "Pasta al Pesto",
+            "description": "Pesto Pasta",
+            "price": "10.90"
+        },
+        {
+            "name": "Ziti alla Norma",
+            "description": "Ziti with Roasted Eggplant and Ricotta Cheese",
+            "price": "12.90"
+        },
+        {
+            "name": "Tagliatelle alla Bolognese",
+            "description": "Tagliatelle with Bologna-style Ragù",
+            "price": "10.90"
+        }
+
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
